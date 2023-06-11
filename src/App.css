@@ -185,7 +185,7 @@ train menu styling */
 
 .traintMenu.select{
   width: 100%;
-  background:url('/home/richarda/Bootcamp/project_MTA/frontend_app/public/arrow.png') no-repeat;
+  background:url('arrow.png') no-repeat;
   background-position:80% center;
 
 }
@@ -221,7 +221,7 @@ train menu styling */
 
 .stationMenu.select{
   width: 100%;
-  background:url('/home/richarda/Bootcamp/project_MTA/frontend_app/public/arrow.png') no-repeat;
+  background:url('arrow.png') no-repeat;
   background-position:80% center;
 
 }
